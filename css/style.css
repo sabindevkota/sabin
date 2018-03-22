@@ -1,0 +1,49 @@
+h1 {
+  color: black;
+  font-size: 30px;
+  font-family: serif;
+  margin-left: 600px;
+  margin-right: 250px;
+}
+body {
+  background-color: lightgrey;
+  background-image: url("..//image.png");
+}
+h2{
+  color: red;
+  font-size: 30px;
+  font-family: serif;
+  margin-left: 600px;
+  margin-right: 250px;
+}
+
+input[type=text], select {
+  width: 400px;
+  padding: 6px;
+  font-size:25px;
+}
+input[type=date], select {
+  width: 400px;
+  padding: 6px;
+  font-size:25px;
+}
+input[type=contact], select {
+  width: 400px;
+  padding: 6px;
+  font-size:25px;
+}
+form{
+  margin-left: 500px;
+  margin-right: 250px;
+  width: 400px;
+  font-size: 25px;
+  font-family: "Times New Roman";
+}
+
+button {
+  background-color: lightblue;
+  width: 400px;
+  padding: 6px;
+  font-size:25px;
+  margin-left:10px;
+}
